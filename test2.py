@@ -1,6 +1,6 @@
 import os
 
-print("no baby because no baby")
+print("no baby no baby")
 
 print(laid)
 
