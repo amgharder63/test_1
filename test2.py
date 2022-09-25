@@ -1,6 +1,6 @@
 import os
 
-laid="everythig"
+print("no baby because no baby")
 
 print(laid)
 
