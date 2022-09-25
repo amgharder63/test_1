@@ -1,6 +1,6 @@
 import os
 
-laid="everything"
+laid="everythig"
 
 print(laid)
 
